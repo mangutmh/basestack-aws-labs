@@ -51,8 +51,10 @@ These AWS foundational labs focused on establishing a secure and operational clo
 4. This ensures you get an email if you accidentally incur charges.
 
 ## Screenshots
-![IAM Dashboard](../../screenshots/week01-iam-dashboard.png)
-![User Created](../../screenshots/week01-iam-user-created.png)
+![Budget Creation Confirmation](../../screenshots/week01-lab1-budget-creation-confirmation-page.png)
+![AWS Console Home Page](../../screenshots/week01-lab1-console-home-page-showing-account-name.png)
+![EC2 Service Dashboard](../../screenshots/week01-lab1-ec2-service-dashboard.png)
+![MFA Device](../../screenshots/week01-lab1-mfa-device-listed-as-assigned-in-security-credentials.png)
 
 ## Key Concepts Learned
 - The root account should NEVER be used for day-to-day operations
