@@ -7,6 +7,7 @@ These AWS foundational labs focused on establishing a secure and operational clo
 - Create an AWS account (Free Tier)
 - Enable MFA on the root account
 - Navigate the AWS Management Console to identify 5 core services (EC2, S3, RDS, IAM, Lambda).
+- Configuring billing alerts
 
 ## AWS Services Used
 - AWS Console
