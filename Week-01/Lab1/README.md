@@ -21,7 +21,7 @@ These AWS foundational labs focused on establishing a secure and operational clo
 
 ## Step-by-Step Instructions
 
-### Step 1 Create Your AWS Account
+### Step 1: Create Your AWS Account
 1. Go to https://aws.amazon.com and click Create an AWS Account.
 2. Enter your email address and choose a root account name (e.g. 'YourName AWS Learning').
 3. Enter your contact information — select Personal account type.
@@ -38,14 +38,14 @@ These AWS foundational labs focused on establishing a secure and operational clo
 5. Enter two consecutive 6-digit codes from the app to verify.
 6. Click Add MFA. You should see your device listed as Assigned.
 
-### Step 3 Explore the Console
+### Step 3: Explore the Console
 1. Use the search bar at the top to find these services one by one: EC2, S3, IAM, RDS, Lambda.
 2. Click on EC2 — note the dashboard. You are in a specific Region (shown top-right).
 3. Change the Region to US East (N. Virginia) using the Region selector.
 4. Navigate to Services → All Services. Scroll through the full list.
 5. Click the AWS icon (top-left) to return to the main console home.
 
-### Step 4 Set Your Billing Alert
+### Step 4: Set Your Billing Alert
 1. Search for Billing and Cost Management in the console.
 2. Click Budgets → Create budget → Use a template → Zero spend budget.
 3. Enter your email address for alerts. Click Create budget.
